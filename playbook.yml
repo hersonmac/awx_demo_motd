@@ -1,5 +1,5 @@
 ---
-- hosts: motd
+- hosts: 10.1.214.5
   gather_facts: true
   become: true
 
